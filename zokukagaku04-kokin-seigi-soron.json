@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-seigi-soron",
  "yomi": "こきんわかしゅうせいぎそうろん",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈書（古今集）",
+  "era": "江戸後期",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "景樹の古今集注釈『古今和歌集正義』の総論。平安初期に漢詩が尊ばれて和歌が衰えた中で、紀貫之らが古今集を撰んだ意義を論じる。"
+ },
  "editions": [
   {
    "pid": "993382",
